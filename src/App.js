@@ -1,24 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from 'react-router-dom';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import Home from './routes/home/home.component';
+import Navigation from './routes/navigation/navigation.component';
+import Authentication from './routes/authentication/authentication.component';
+
+
+const Shop = () => {
+  return(
+    <div>
+      <div>
+          <h1>I am Shop</h1>
+      </div>
     </div>
+  );
+}
+
+const App = () => {
+
+  return (
+    <Routes>  {/** Utilizing routing */}
+      <Route path='/' element={<Navigation />} >
+          <Route index element={<Home />} />     {/**index means that home is the base page */}
+          <Route path='shop' element={<Shop />} /> 
+          <Route path='auth' element={<Authentication />} /> 
+      </Route>
+    </Routes>
   );
 }
 
