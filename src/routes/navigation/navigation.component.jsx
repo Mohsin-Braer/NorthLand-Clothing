@@ -8,6 +8,7 @@ import CartIcon from "../../components/cart-icon/cart-icon.component";
 import CartDropdown from "../../components/cart-dropdown/cart-dropdown.component";
 
 import { NavigationContainer, NavLinks, LogoContainer, NavLink } from "./navigation.styles";
+import './navigation-hover.styles.scss';
 
 
 
@@ -23,16 +24,16 @@ const Navigation = () => {
               <CrwnLogo className='logo' />
             </LogoContainer>
             <NavLinks>
-              <NavLink to='/shop'>
+              <NavLink className="hover-underline-animation" to='/shop'>
                 SHOP
               </NavLink>
     
               {currentUser ? (
-                <NavLink as='span' onClick={signOutUser}>
+                <NavLink className="hover-underline-animation" as='span' onClick={signOutUser}>
                   SIGN OUT
                 </NavLink>
               ) : (
-                <NavLink to='/auth'>
+                <NavLink className="hover-underline-animation" to='/auth'>
                   SIGN IN
                 </NavLink>
               )}
