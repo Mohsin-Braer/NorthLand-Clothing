@@ -27,4 +27,8 @@ export const SpinnerContainer = styled.div`
       -webkit-transform: rotate(360deg);
     }
   }
+<<<<<<< HEAD
 `;
+=======
+`;
+>>>>>>> redux-based-app

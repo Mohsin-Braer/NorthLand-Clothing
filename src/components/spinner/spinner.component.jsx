@@ -6,4 +6,8 @@ const Spinner = () => (
   </SpinnerOverlay>
 );
 
+<<<<<<< HEAD
 export default Spinner;
+=======
+export default Spinner;
+>>>>>>> redux-based-app

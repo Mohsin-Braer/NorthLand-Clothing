@@ -17,7 +17,11 @@ export const selectCategoriesMap = createSelector(
     }, {})
 );
 
+<<<<<<< HEAD
 export const selectCateoriesIsLoading = createSelector(
+=======
+export const selectIsLoading = createSelector(
+>>>>>>> redux-based-app
   [selectCategoryReducer],
   (categoriesSlice) => categoriesSlice.isLoading
 );
