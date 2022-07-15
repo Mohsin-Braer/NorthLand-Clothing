@@ -45,8 +45,8 @@
 ### Shop Page
 [![NorthLand Shop Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
 
-### Individual Category Page (example jackets)
-[![NorthLand Category Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
+### Individual Category Page (example category: jackets)
+[![NorthLand Category:Jackets Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
 
 ### Checkout Page
 [![NorthLand Checkout Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
