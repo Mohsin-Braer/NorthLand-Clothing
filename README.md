@@ -77,7 +77,7 @@ Pretty simple and strightfoward.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Mohsin-Braer/Flamingo.git
+   git clone https://github.com/Mohsin-Braer/NorthLand-Clothing.git
    ```
 2. Install NPM packages
    ```sh
