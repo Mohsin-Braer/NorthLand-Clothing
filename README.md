@@ -22,7 +22,7 @@
 <h3 align="center">NorthLand Clothing Inc.</h3>
 
   <p align="center">
-    Recreating the most popular twitter client for the Web.
+    Devloping a massive E-Commerce site for NorthLand Clothing Inc built with Hooks, Redux, Firebase, Stripe, and GraphQL
     <br />
     <a href="https://github.com/Mohsin-Braer/NorthLand-Clothing/"><strong>Explore the Repo »</strong></a>
     <br />
