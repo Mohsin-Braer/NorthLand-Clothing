@@ -1,0 +1,26 @@
+.underline-hover-animation {
+    position: relative;
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .underline-hover-animation:hover {
+    color: #000;
+  }
+  
+  .underline-hover-animation::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #000;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+  }
+  
+  .underline-hover-animation:hover::before {
+    transform: scaleX(1);
+  }

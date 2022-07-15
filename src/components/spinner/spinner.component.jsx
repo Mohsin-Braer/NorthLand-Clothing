@@ -1,4 +1,4 @@
-import { SpinnerOverlay, SpinnerContainer } from './spinner.styles';
+import { SpinnerContainer, SpinnerOverlay } from './spinner.styles';
 
 const Spinner = () => (
   <SpinnerOverlay>
@@ -6,8 +6,4 @@ const Spinner = () => (
   </SpinnerOverlay>
 );
 
-<<<<<<< HEAD
 export default Spinner;
-=======
-export default Spinner;
->>>>>>> redux-based-app
