@@ -27,7 +27,7 @@
     <a href="https://github.com/Mohsin-Braer/NorthLand-Clothing/"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/">View Demo via Netlify</a>
+    <a href="https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/">View Demo via Netlify</a>
   </p>
 </div>
 
@@ -35,7 +35,7 @@
 
 ## About The Project
 
-[![Flamingo Homepage][homepage-src]](62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 
 Flamingo for Android was one of the most popular third-party Twitter clients to have been developed. Unfortunately since it's discontinuationg from the Google Play Store, there has yet to be a web-based version of the app. Introducing Flamingo for the Web! 
 
@@ -44,13 +44,13 @@ This mobile responsive application was built using Next.js (a React framework) a
 Compound component design architecture to build the components required for this project (see multiple examples through the github repository). The styling is all handled via the tailwindcss and headless UI libraries.
 
 ### Homepage
-[![Flamingo Homepage][homepage-src]](62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 ### Mobile Responsive
-[![Flamingo Mobile Responsive Homepage][mobile-responsive-src]](62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+[![Flamingo Mobile Responsive Homepage][mobile-responsive-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 ### Sign-in page
-[![Flamingo Sign In Page][sign-in-src]](62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+[![Flamingo Sign In Page][sign-in-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 ### Comment Page
-[![Flamingo Comment Page][comment-src]](62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+[![Flamingo Comment Page][comment-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
