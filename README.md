@@ -47,28 +47,26 @@ Compound component design architecture to build the components required for this
 [![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 
 ### Shop Page
-[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
+[![Flamingo Shop Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
 
 ### Individual Category Page (example jackets)
-[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
+[![Flamingo Category Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
 
 ### Checkout Page
-[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
+[![Flamingo Checkout Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
 
 ### Authentication Page
-[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/auth)
+[![Flamingo Authentication Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/auth)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-- [Next.js](https://nextjs.org/)
 - [React.js](https://reactjs.org/)
-- [Recoil](https://recoiljs.org/)
-- [Tailwindcss](https://tailwindcss.com/)
-- [Headless UI](https://headlessui.com/)
-- [nextAuth](https://next-auth.js.org/)
+- [Redux](https://redux.js.org/)
+- [Styled Components](https://styled-components.com/)
+- [Stripe](https://stripe.com/)
 - [Firebase](https://firebase.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
