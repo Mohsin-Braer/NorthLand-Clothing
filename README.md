@@ -45,12 +45,18 @@ Compound component design architecture to build the components required for this
 
 ### Homepage
 [![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
-### Mobile Responsive
-[![Flamingo Mobile Responsive Homepage][mobile-responsive-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
-### Sign-in page
-[![Flamingo Sign In Page][sign-in-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
-### Comment Page
-[![Flamingo Comment Page][comment-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
+
+### Shop Page
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
+
+### Individual Category Page (example jackets)
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
+
+### Checkout Page
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
+
+### Authentication Page
+[![Flamingo Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/auth)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
