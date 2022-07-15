@@ -27,7 +27,7 @@
     <a href="https://github.com/Mohsin-Braer/NorthLand-Clothing/"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/">View Demo via Vercel</a>
+    <a href="62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/">View Demo via Netlify</a>
   </p>
 </div>
 
