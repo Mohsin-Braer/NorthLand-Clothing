@@ -37,7 +37,7 @@
 
 [![NorthLand Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 
-*Text Description Here*
+This mobile responsive E-Commerce application was built using React (Custom Hooks, Compound Component Architecture), Redux, Stripe Payments API, Firebase & Styled Components. I utilize Firebase firestore to handle all things related to data retrieval of store iventory (this data is retrieved using a custom hook); authentication is used on all pages, which is handled by Firebase as well. Users have the option to either sign in via their already registered email and password or through Google authentication (which creates a username/password instance within Firebase firestore if they don't already have an registed account). User session is also saved via localStorage, user can leave the site, come back, and still be logged in.
 
 ### Homepage
 [![NorthLand Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
