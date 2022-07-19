@@ -43,16 +43,16 @@
 [![NorthLand Homepage][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/)
 
 ### Shop Page
-[![NorthLand Shop Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
+[![NorthLand Shop Page][shop-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop)
 
 ### Individual Category Page (example category: jackets)
-[![NorthLand Category:Jackets Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
+[![NorthLand Category:Jackets Page][jacket-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/shop/jackets)
 
 ### Checkout Page
-[![NorthLand Checkout Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
+[![NorthLand Checkout Page][checkout-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/checkout)
 
 ### Authentication Page
-[![NorthLand Authentication Page][homepage-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/auth)
+[![NorthLand Authentication Page][auth-src]](https://62d19d7d94f05f4934e81c8f--gorgeous-kleicha-071edb.netlify.app/auth)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -116,8 +116,10 @@ const firebaseConfig = {
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 
 [homepage-src]: ./images/Northland-Home-Page.png
-[sign-in-src]: https://postimg.cc/XZkDHhvr
-[comment-src]: https://postimg.cc/hJB50gKF
-[mobile-responsive-src]: https://postimg.cc/ZBYs1c9V
+[shop-src]: ./images/Northland-Shop-Page.png
+[checkout-src]: ./images/Northland-Checkout-Page.png
+[jacket-src]: ./images/Northland-Jacket-Page.png
+[auth-src]: ./images/Northland-Auth-Page.png
+
 
 [demo-img-gallery-link]: https://postimg.cc/gallery/Ym8nYm9
